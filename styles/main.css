@@ -1,4 +1,32 @@
 body
 {
-  background-color: cadetblue;
+  background-color: aliceblue ;
+  font-family:  'Comforter', cursive;
+  font-size: 20px;      
+}
+.nav{
+   display: inline;
+   font-size: 30px; 
+   font-weight: 600;
+   margin-top: 10%; 
+   padding: 10px 140px 10px 140px;
+   background-color: #b0c4de;
+   
+}
+.intro{
+ font-family: 'Comforter', cursive; 
+ text-align: center; 
+       
+}
+.image1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;      
+}
+.bottom{
+              align-items: center;
+              justify-content: center;
+              display: flex;
 }
