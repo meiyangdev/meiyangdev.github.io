@@ -11,6 +11,8 @@ body
    margin-top: 10%; 
    padding: 10px 140px 10px 140px;
    background-color: #b0c4de;
+   margin-left: auto;
+   margin-right: auto;
    
 }
 .intro{
@@ -29,4 +31,5 @@ body
               align-items: center;
               justify-content: center;
               display: flex;
+            
 }
