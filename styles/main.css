@@ -55,5 +55,10 @@ button {
   -webkit-user-select: none;
   touch-action: manipulation;
 }
+image {
+  object-fit: cover;
+  width: 40px;
+  text-align: center;
+}
 
 
