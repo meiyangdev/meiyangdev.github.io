@@ -60,5 +60,9 @@ image {
   width: 40px;
   text-align: center;
 }
+.neuroimage {
+display: flex;
+justify-content: center;
+}
 
 
