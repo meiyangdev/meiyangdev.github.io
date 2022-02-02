@@ -1,4 +1,5 @@
 # meiyangdev.github.io
+<meta name="viewport" content="width=device-width" />
 css style:
 @media screen and (max-width: 320px) 
   {
