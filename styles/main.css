@@ -1,3 +1,25 @@
+@media screen and (max-width: 320px) 
+{ 
+  body{ 
+    font-size: 26px; 
+    background-color: palevioletred;
+  } 
+}
+@media screen and (max-width: 768px) 
+{ 
+  body{
+     font-size: 24px; 
+     background-color: rebeccapurple;
+  } 
+}
+
+@media screen and (min-width: 1200px) 
+{ 
+  body{ 
+    font-size: 22px;
+    background-color: seagreen;
+   }
+   }
 body
 {
   background-color: aliceblue ;
@@ -68,25 +90,4 @@ h2 {
   text-align: center;
 }
 
-@media screen and (max-width: 320px) 
-{ 
-  body{ 
-    font-size: 26px; 
-    background-color: palevioletred;
-  } 
-}
-@media screen and (max-width: 768px) 
-{ 
-  body{
-     font-size: 24px; 
-     background-color: rebeccapurple;
-  } 
-}
 
-@media screen and (min-width: 1200px) 
-{ 
-  body{ 
-    font-size: 22px;
-    background-color: seagreen;
-   }
-   }
