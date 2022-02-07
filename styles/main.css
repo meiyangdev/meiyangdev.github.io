@@ -1,6 +1,6 @@
 @media screen and (max-width: 320px) 
 { 
-  body p { 
+  body { 
     font-size: 26px; 
     background-color: palevioletred;
   } 
