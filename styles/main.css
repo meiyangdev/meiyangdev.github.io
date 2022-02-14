@@ -68,14 +68,14 @@ justify-content: center;
 h2 {
   text-align: center;
 }
-@media only screen and (min-width: 320px) 
+@media screen and (min-width: 320px) and (max-width: 767px) 
 { 
   body { 
     font-size: 26px; 
     background-color: palevioletred;
   } 
 }
-@media  only screen and (min-width: 768px) 
+@media screen and (min-width: 768px) and (max-width: 1199px)
 { 
   body{
      font-size: 24px; 
@@ -83,7 +83,7 @@ h2 {
   } 
 }
 
-@media only screen and (max-width: 1200px) 
+@media screen and (min-width: 1200px) 
 { 
   body{ 
     font-size: 22px;
